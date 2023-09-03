@@ -4,6 +4,8 @@
 
 This repository contains research on the Seebeck effect, focused on optimizing the Seebeck coefficient through various machine learning models and clustering methods.
 
+"Optimization of Physical Experiment Using Machine Learning and Data Analysis: A Case Study on the Seebeck Effect"
+
 ### Academic Paper
 
 Detailed results of the research are described in this PDF document:
@@ -31,6 +33,8 @@ The research was prepared by a first-year student from the Department of Electro
 ### Обзор
 
 Репозиторий содержит исследование эффекта Зеебека, сосредоточенные на оптимизации коэффициента Зеебека с помощью различных моделей машинного обучения и методов кластеризации.
+
+"Оптимизация физического эксперимента с помощью анализа данных и машинного обучения на примере эффекта Зеебека"
 
 ### Научная Работа
 

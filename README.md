@@ -56,4 +56,4 @@ The research was prepared by a first-year student from the Department of Electro
 
 ## License
 
-This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under CC0 1.0 Universal
